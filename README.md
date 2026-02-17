@@ -1,7 +1,7 @@
 Advanced Flood Risk Analysis System
 A comprehensive flood risk assessment tool that combines geospatial analysis, machine learning, and interactive visualizations to evaluate flood risks across Indian metropolitan areas.
 🌊 Features
-Core Analysis Capabilities
+Core Analysis 
 
 Multi-Factor Risk Assessment: Combines elevation, slope, water proximity, drainage capacity, and land use patterns
 Natural Language Processing: Extract locations and intents from plain English queries
